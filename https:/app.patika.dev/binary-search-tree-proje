@@ -1,0 +1,34 @@
+https://app.patika.dev/mertyrtclr
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+7 root
+
+5 7'den küçük olduğu için soluna
+
+1 5 ve 7'den küçük olduğundan 7 ve 5'in soluna
+
+8 7'den büyük olduğu için 7'nin sağına 
+
+3 7 ve 5'ten küçük olduğundan 7 ve 5'in soluna  1'den büyük olduğu için 1'in sağına
+
+6  7'den küçük olduğu için 7'nin soluna 5'ten büyük olduğu için 5'in sağına
+
+0  7'den ,5'ten ve 1'den küçük olduğu için 1'in soluna
+
+9 7'den 8'den büyük olduğu için 8'in sağına
+
+4 7'den ve 5'ten küçük olduğundan soluna 1'den ve 3'ten büyük olduğundan 3'ün sağına
+
+2 7'den ve 5'ten küçük olduğundan 5'in soluna 1'den büyük olduğu için 1'in sağına 3'den küçük olduğu için 3'ün soluna
+
+
+                          7
+                         / \
+                        5   8
+                       / \   \
+                      1   6   9
+                     / \
+                    0  3
+                      / \
+                     2   4
